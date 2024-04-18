@@ -655,7 +655,7 @@ transition: right 0.7s;
     }
   }
   
-  @media (max-width: 1300px) {
+  @media (max-width: 1200px) {
     .team {
       padding-bottom: 5rem;
     }
